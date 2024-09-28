@@ -8,11 +8,10 @@
 5. [Acknowledgments](#acknowledgments)
 
 ## Overveiw
-# Atliq Hardware Sales Data Analysis
 
 Atliq Hardware is seeking to better understand the factors behind its declining sales and profitability in order to make informed business decisions. The company aims to gain insights into regional sales performance, customer behavior, and market trends to improve overall profitability and optimize sales strategies.
 
-## Key Objectives
+## Key Objectives:
 
 1. **Analyze Regional Sales Performance**  
    - Identify regions with declining sales and profitability.
