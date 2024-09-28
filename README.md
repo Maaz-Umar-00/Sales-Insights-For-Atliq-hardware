@@ -40,7 +40,6 @@ The dataset used for this analysis is sourced from [https://codebasics.io/resour
 )
 
 ## Findings and Recommendations
-1.# Atliq Hardware Revenue Analysis
 
 - **Atliq Hardware's revenue peaked at $43 million in 2018, but declined by approximately 65% to $15 million by 2020.**
 - **Atliq Hardware** could consider implementing a subscription model for regular customers, allowing them to receive monthly supplies at a discounted rate, thereby ensuring steady revenue. 
