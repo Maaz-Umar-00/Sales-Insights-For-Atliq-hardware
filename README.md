@@ -1,4 +1,4 @@
-# Project Sales Insights For Atliq Hardware Company
+# Project: Sales Insights For Atliq Hardware Company
 
 ## Table of Contents
 1. [Overview](#overview)
