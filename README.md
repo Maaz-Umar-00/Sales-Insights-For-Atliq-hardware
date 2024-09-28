@@ -35,23 +35,19 @@ The **SQL** queries used to **analyze and clean** the data can be found [here](h
 
 
 ## Data Structure & Initial Checks
-The dataset used for this analysis is sourced from [https://codebasics.io/resources/sales-insights-data-analysis-project]) and includes **Five tables**.
+The dataset used for this analysis is sourced from [https://codebasics.io/resources/sales-insights-data-analysis-project]) and it includes **Five tables**.
 
 ![Data Model Or Data Structure](./04_Chart_pics/Data_Structure.png
 )
 
-### Column Description For Fact_spends Table:
-
-- `customer_id:` This column represents the Unique ID of each customer, linking to the dim_customer table.
-- `month:` This column indicates the month in which the spending was recorded. (May, June, July, August, September, October)
-- `category:` This column describes the category of spending (Entertainment, Apparel, Electronics, etc).
-- `payment_type:` This column specifies the type of payment used by the customer (Debit Card, Credit Card, UPI, Net Banking).
-- `spends:` This column shows the total amount spent by the customer in the specified month, category and payment_type.
-
 ## Findings and Recommendations
-1. **Utility Spending Insights**:
-   - The analysis reveals that people spend the most on **utility bills**, highlighting a significant area of consumer expenditure.
-   - This suggests that Mitron Bank could consider launching new payment cards with **tailored rewards** for utility payments to enhance **customer engagement** and **card adoption.**
+1.# Atliq Hardware Revenue Analysis
+
+- **Atliq Hardware's revenue peaked at $43 million in 2018, but declined by approximately 65% to $15 million by 2020.**
+- **Atliq Hardware** could consider implementing a subscription model for regular customers, allowing them to receive monthly supplies at a discounted rate, thereby ensuring steady revenue. 
+![Revenue Trends by Date](./04_Chart_pics/revenue_by_date.png)
+
+
 
 ![Utility Spending Patterns](./03_Chart_pics/Percentage_of_spending_income_Based_on_different_items.png
 )
