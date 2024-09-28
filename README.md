@@ -30,6 +30,7 @@ By addressing these objectives, we aim to provide Atliq Hardware with the insigh
 
 
 The **SQL** queries used to **analyze and clean** the data can be found [here](https://github.com/Maaz-Umar-00/Sales-Insights-For-Atliq-hardware/blob/main/03_Sales_insights_in_python-sql.ipynb).\
+
 [Click here to Download the  **Power Bi** Dashboard](https://github.com/Maaz-Umar-00/Sales-Insights-For-Atliq-hardware/blob/main/02_Atliq_hardware_sales_project.pbix)
 
 
