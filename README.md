@@ -67,14 +67,16 @@ To mitigate the declining profits in **Bengaluru,** the company should reassess 
 ![Revenue Trends](./04_Chart_pics/Full_dashboard.png)
 
      
-To access full **Tableau dashboard,** please click [here](https://public.tableau.com/app/profile/maaz.umar/viz/MitronBankAnalysis_17266593076560/05_credit_card_dashboard)\
-To access **Sql queries** click [here](https://github.com/Maaz-Umar-00/Mitron-Bank-Analysis-Project/blob/main/01_Payment_card_Analysis_in_Sql.ipynb)
+To Download the **Power Bi Dashboard**, please click [here](https://github.com/Maaz-Umar-00/Sales-Insights-For-Atliq-hardware/blob/main/02_Atliq_hardware_sales_project.pbix)\
+To Veiw the  **Sql queries** click [here](https://github.com/Maaz-Umar-00/Sales-Insights-For-Atliq-hardware/blob/main/03_Sales_insights_in_python-sql.ipynb)
+
 
 ## Conclusion
-This analysis provides valuable insights into **customer spending patterns** that can guide **Mitron Bank in introducing new payment card products.** By understanding the diverse needs and preferences of different customer segments, the bank can create tailored solutions that enhance customer engagement and loyalty.
+
+This analysis provides a comprehensive view of Atliq Hardware's **sales performance**, highlighting both **strengths** and areas for **improvement**. While regions like **Surat** demonstrate strong **profit margins**, locations such as **Bengaluru** require immediate attention due to **declining profitability**. The insights suggest a need for strategic adjustments in **marketing**, **cost management**, and **customer engagement**. By acting on these recommendations, Atliq Hardware can **optimize operations**, improve **profit margins**, and work towards **sustainable growth** across all regions.
 
 ## Acknowledgments
-* [code_basics](https://codebasics.io/challenge/codebasics-resume-project-challenge/11) for providing the dataset.\
-* **Tableau** and **sql** for visualization and insights.
+* [code_basics](https://codebasics.io/resources/sales-insights-data-analysis-project) for providing the dataset.
+* **Power Bi** and **sql** for visualization and insights.
 
 
