@@ -52,8 +52,7 @@ The dataset used for this analysis is sourced from [https://codebasics.io/resour
 
 To address this issue, the company should analyze cost structures in the region to identify inefficiencies and explore opportunities for reducing operational costs. Additionally, focusing on premium product offerings could enhance profit margins while attracting discerning customers.
 
-![Total revenue by markets](./04_Chart_pics/Total_revenue_by_markets.png
-.png)
+![Total revenue by markets](./04_Chart_pics/Total_revenue_by_markets.png)
 
  
 3. **The highest profit margin** for Atliq Hardware is from **Surat city**, showcasing strong profitability. However, in contrast, the profit margin in **Bengaluru** is declining and moving into the **negative.** 
