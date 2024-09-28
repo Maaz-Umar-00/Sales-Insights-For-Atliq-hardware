@@ -8,8 +8,7 @@
 5. [Acknowledgments](#acknowledgments)
 
 ## Overveiw
-
-Atliq Hardware is seeking to better understand the factors behind its declining sales and profitability in order to make informed business decisions. The company aims to gain insights into regional sales performance, customer behavior, and market trends to improve overall profitability and optimize sales strategies.
+**Atliq Hardware, an India-based company,** is seeking to gain a deeper understanding of the factors contributing to its **declining sales** and **profitability.** The company aims to analyze various aspects of its business, including **regional sales performance, customer behavior,** and **market trends.** By obtaining these insights, **Atliq Hardware plans to enhance its overall profitability and refine its sales strategies.** This data-driven approach will enable the company to make informed decisions and improve its competitive edge in the market.
 
 ## Key Objectives:
 
