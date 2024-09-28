@@ -49,7 +49,7 @@ The dataset used for this analysis is sourced from [https://codebasics.io/resour
 
 2. **Atliq Hardware** receives the highest revenue from **Delhi NCR**, where profits are also higher; however, the **profit margin** is surprisingly very low. 
 
-To address this issue, the company should analyze cost structures in the region to identify inefficiencies and explore opportunities for reducing operational costs. Additionally, focusing on premium product offerings could enhance profit margins while attracting discerning customers.
+To address this issue, the company should analyze cost structures in the region to identify inefficiencies and explore opportunities for **reducing operational costs.** Additionally, focusing on **premium product offerings** could enhance profit margins while attracting discerning customers.
 
 ![Total revenue by markets](./04_Chart_pics/Total_revenue_by_markets.png)
 
