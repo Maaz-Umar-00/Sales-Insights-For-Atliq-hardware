@@ -49,21 +49,22 @@ The dataset used for this analysis is sourced from [https://codebasics.io/resour
 
 
 
-![Utility Spending Patterns](./03_Chart_pics/Percentage_of_spending_income_Based_on_different_items.png
-)
-2. **City-Specific Spending Patterns**:
-   - The analysis indicates that people spend the most in **Mumbai** and the least in **Hyderabad**, highlighting the need for tailored marketing strategies to maximize engagement in both markets.
-   - This suggests that Mitron Bank should consider developing city-specific promotions and offers that resonate with the local consumer base.
+2. **Atliq Hardware** receives the highest revenue from **Delhi NCR**, where profits are also higher; however, the **profit margin** is surprisingly very low. 
 
-![City Specific Spending Patterns](./03_Chart_pics/Total_spending_per_city.png)
+To address this issue, the company should analyze cost structures in the region to identify inefficiencies and explore opportunities for reducing operational costs. Additionally, focusing on premium product offerings could enhance profit margins while attracting discerning customers.
+
+![Total revenue by markets](./04_Chart_pics/Total_revenue_by_markets.png
+.png)
 
  
-3. **Payment Card Usage Among IT Employees**:
-   - The analysis shows that **IT employees** use the most variety of payment cards, presenting an opportunity for Mitron Bank to offer specialized cards that cater to their diverse spending habits.
-   - This could enhance customer loyalty and encourage greater usage of the bank’s offerings by providing tailored features and rewards that meet the specific needs of this demographic.
+3. **The highest profit margin** for Atliq Hardware is from **Surat city**, showcasing strong profitability. However, in contrast, the profit margin in **Bengaluru** is declining and moving into the **negative.** 
 
-![IT Employees Payment Card Usage](./03_Chart_pics/Payment_card_usage_by_work_type.png)
-![Work_type](./03_Chart_pics/work_type_colours.png)
+To mitigate the declining profits in **Bengaluru,** the company should reassess its pricing strategy and consider reducing non-essential expenditures in that region. Additionally, conducting a market analysis to understand **changing customer preferences** could help identify new opportunities for growth.
+
+![Total porfit margin](./04_Chart_pics/Total_profit_margin.png) 
+
+4.**Overall Business Metrics**
+![Revenue Trends](./04_Chart_pics/Full_dashboard.png)
 
      
 To access full **Tableau dashboard,** please click [here](https://public.tableau.com/app/profile/maaz.umar/viz/MitronBankAnalysis_17266593076560/05_credit_card_dashboard)\
