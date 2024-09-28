@@ -35,7 +35,7 @@ The **SQL** queries used to **analyze and clean** the data can be found [here](h
 
 
 ## Data Structure & Initial Checks
-The dataset used for this analysis is sourced from [https://codebasics.io/resources/sales-insights-data-analysis-project]) and includes two tables dim_customers and fact_spends with the following features:
+The dataset used for this analysis is sourced from [https://codebasics.io/resources/sales-insights-data-analysis-project]) and includes **Five tables**.
 
 ![Data Model Or Data Structure](./04_Chart_pics/Data_Structure.png
 )
