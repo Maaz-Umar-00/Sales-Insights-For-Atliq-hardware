@@ -29,13 +29,16 @@ By addressing these objectives, we aim to provide Atliq Hardware with the insigh
 
 
 
-The **SQL** queries used to **analyze and clean** the data can be found [here](https://github.com/Maaz-Umar-00/Sales-Insights-For-Atliq-hardware/blob/main/03_Sales_insights_in_python-sql.ipynb).\
+The **SQL** queries used to **analyze and clean** the data can be found [here](https://github.com/Maaz-Umar-00/Sales-Insights-For-Atliq-hardware/blob/main/03_Sales_insights_in_python-sql.ipynb).
 
 [Click here to Download the  **Power Bi** Dashboard](https://github.com/Maaz-Umar-00/Sales-Insights-For-Atliq-hardware/blob/main/02_Atliq_hardware_sales_project.pbix)
 
 
 ## Data Structure & Initial Checks
-The dataset used for this analysis is sourced from [https://codebasics.io/challenge/codebasics-resume-project-challenge/11]) and includes two tables dim_customers and fact_spends with the following features:
+The dataset used for this analysis is sourced from [https://codebasics.io/resources/sales-insights-data-analysis-project]) and includes two tables dim_customers and fact_spends with the following features:
+
+![Data Model Or Data Structure](./04_Chart_pics/Data_Structure.png
+)
 
 ### Column Description For Fact_spends Table:
 
